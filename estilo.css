@@ -1,18 +1,25 @@
 #nav{
     
+    background-color: #95f097
+    
 }
 
 #nav2{
-    background-color: blue;
+    background-color: #95f097;
     
 }
 
 #cuerpo{
 
     text-align: center;
-    background-color:yellowgreen;
+    background-color:#00ced1;
 }
 
 #foto{
     border-radius: 50%;
+}
+
+ul{
+   justify-content: space-between;
+    
 }
